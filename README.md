@@ -3,7 +3,7 @@
 
 ## python version: 3.7.1
 
-# 单元测试执行方法：（Perform Unit Test）
+## 单元测试执行方法：（Perform Unit Test）
 python math2-for-race.py
-# 普通运行方法：(Perform the program)
+## 普通运行方法：(Perform the program)
 python math2-for-race.py ${四则运算题目个数}
